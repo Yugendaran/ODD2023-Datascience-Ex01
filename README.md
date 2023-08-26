@@ -112,5 +112,6 @@ for x in df.index:
 
 df
 
-# output:
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/e4ff7050-aece-4498-9a6c-9158ba132684)
+
 
