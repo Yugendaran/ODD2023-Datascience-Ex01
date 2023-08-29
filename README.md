@@ -123,3 +123,19 @@ df
 
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/4d47fd85-5f53-4b33-8cd1-c8d37db44081)
 
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/1c49a726-4aa4-4d82-ac37-c61ebba3e3ef)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/e5883e91-2459-4030-997c-d50de198e2b4)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/57c325df-5ad0-4641-951d-ab6285043e51)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/e2e8d3e6-9d0a-4b58-a726-159ca46cd91b)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/14efba85-ca11-4e70-8766-7e1bc366b1cd)
+
+
+
+
+
+
+
