@@ -161,3 +161,7 @@ df
 
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/070bfaae-8aac-4f38-8faa-3edc77c500f6)
 
+
+#Result:
+Thus,the given data is cleansed and the cleaned data is saved into the file.
+
