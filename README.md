@@ -137,9 +137,21 @@ df
 
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/255fb8bd-50a0-4f62-97b1-7d605c1b58e0)
 
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/6e1d9463-9e14-4d6d-99b8-360d9668c612)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/55fe890c-dce5-40fa-abde-91ca8ffa81ae)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/f5df804c-2146-417b-8048-3afa08561119)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/a54df47c-72b6-491d-b079-929d61a6fe36)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/8b1f190f-5904-40fe-ac8d-256d24797b3c)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/22c2b3c1-15b7-4453-9183-776a26e4ed1a)
 
 
 
+file:///home/sec/Pictures/Screenshot%20from%202023-08-29%2013-35-37.png![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/ca237d06-ba48-4b2d-86c0-4590272b541a)
 
-
+file:///home/sec/Pictures/Screenshot%20from%202023-08-29%2013-35-47.png![Uploading image.png…]()
 
