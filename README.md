@@ -157,7 +157,7 @@ df
 
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/cd3f7894-2e84-47f0-89ef-52aa3b4866c7)
 
-file:///home/sec/Pictures/Screenshot%20from%202023-08-29%2013-55-46.png![Uploading image.png…]()
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/39d5eac3-df1b-4c29-aa64-b9680e321956)
 
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/070bfaae-8aac-4f38-8faa-3edc77c500f6)
 
