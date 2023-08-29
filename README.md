@@ -23,30 +23,55 @@ Save the Clean data to the file
 **DATA CLEANING HANDLING NULL** **VALUES**
 
 import pandas as pd
+
 df=pd.read_csv('/content/SAMPLEDS.csv')
+
 df
+
 df.shape
+
 df.describe()
+
 df.isnull().sum()
+
 df.dropna(how='any').shape
+
 x=df.dropna(how='any')
+
 x
+
 df.dropna(how='all').shape
+
 tot = df.dropna(subset=['TOTAL'],how='any')
+
 tot
+
 m = df.dropna(subset=['M4'],how='any')
+
 m
+
 tot = df.dropna(subset=['M1','M2','M3','M4'],how='any')
+
 tot
+
 df.fillna(0)
+
 df
+
 df.fillna(method='ffill')
+
 df.fillna(method='bfill')
+
 mn=df.TOTAL.mean()
+
 mn
+
 df.TOTAL.fillna(mn,inplace=True)
+
 df
+
 l=df.M1.interpolate()
+
 l
 
 df.M1.fillna(l,inplace=True)
