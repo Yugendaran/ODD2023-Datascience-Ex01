@@ -113,8 +113,7 @@ for x in df.index:
 df
 
 # Output:
-
-file:///home/sec/Pictures/Screenshot%20from%202023-08-29%2013-13-41.png![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/ac34c6d8-e10f-4d6c-8682-0a41642c35a9)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/ac34c6d8-e10f-4d6c-8682-0a41642c35a9)
 
 file:///home/sec/Pictures/Screenshot%20from%202023-08-29%2013-14-26.png![Uploading image.png…]()
 
