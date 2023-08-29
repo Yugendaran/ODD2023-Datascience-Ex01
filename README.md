@@ -18,7 +18,7 @@ Remove the null values from the data
 ### STEP 4
 Save the Clean data to the file
 
-# CODE and OUTPUT:
+# CODE:
 
 **DATA CLEANING HANDLING NULL** **VALUES**
 
@@ -112,6 +112,9 @@ for x in df.index:
 
 df
 
+# Output:
+
+file:///home/sec/Pictures/Screenshot%20from%202023-08-29%2013-05-10.png![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/46a3818b-aed1-4e3a-b89f-b4f8285eda04)
 
 
 
