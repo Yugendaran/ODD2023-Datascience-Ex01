@@ -115,6 +115,11 @@ df
 # Output:
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/ac34c6d8-e10f-4d6c-8682-0a41642c35a9)
 
-file:///home/sec/Pictures/Screenshot%20from%202023-08-29%2013-14-26.png![Uploading image.png…]()
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/9e734620-fc40-49aa-99f5-e6acdc9c442e)
 
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/d73918e1-5a68-4c17-aada-418bb9e5ac62)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/2be1d6f2-a960-4c99-8ab3-a874e507899c)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/4d47fd85-5f53-4b33-8cd1-c8d37db44081)
 
