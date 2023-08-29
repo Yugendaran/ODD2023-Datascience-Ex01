@@ -133,6 +133,10 @@ df
 
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/14efba85-ca11-4e70-8766-7e1bc366b1cd)
 
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/c264bcbf-1365-42b6-96e4-0d11670e9824)
+
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex01/assets/128135616/255fb8bd-50a0-4f62-97b1-7d605c1b58e0)
+
 
 
 
